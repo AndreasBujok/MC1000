@@ -9,6 +9,8 @@ These repository will be stay for all homebrew software for these PCB like an Ar
 - INTEL 8039 8bit CPU
 - INTEL 8251 UART
 - INTEL 8279 Keyboard/Display Interface
+- Program on 2716/2732 EPROM
+- Program memory extendible to additional 2716/2732 EPROM
 - 2 x INTEL 8243 Input/Output Expander
 - 4 digit 7 segment Display
 - 12 keys Keyboard (0-9,*,#)
