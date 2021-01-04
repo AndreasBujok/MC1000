@@ -9,7 +9,11 @@ These repository will be stay for all homebrew software for these PCB like an Ar
 - INTEL 8039 8bit CPU
 - INTEL 8251 UART
 - INTEL 8279 Keyboard/Display Interface
-- INTEL 8243 Input/Output Expander
+- 2 x INTEL 8243 Input/Output Expander
 - 4 digit 7 segment Display
 - 12 keys Keyboard (0-9,*,#)
+- 20 GPIO Input ports by opto-isolator
+- 17 GPIO output ports by opto-isolator
+
+
 
