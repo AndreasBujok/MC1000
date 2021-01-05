@@ -17,7 +17,7 @@ These repository will be stay for all homebrew software for these PCB like an Ar
 [Top](#system)
 
 ## Hardware<a id="hw"></a>
-- INTEL 8039 8bit CPU
+- [INTEL 8039](Datasheet/8039/INTEL_8048.pdf) 8bit CPU
 - INTEL 8251 UART
 - INTEL 8279 Keyboard/Display Interface
 - Program on 2716/2732 EPROM
