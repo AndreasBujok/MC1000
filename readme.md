@@ -1,11 +1,22 @@
 # MC1000
 
-The MC1000 is an letter shoot or pneumatic delivery (Rohpost) on a Intel 8039 CPU. The **MC1000** are developed and destributed from 1982 until end of the 80th.
+__Table of content__
+
+- [System](#system)
+- [Hardware](#hw)
+- [Mainboard](#pcb)
+- [Keyboard](#kbd)
+
+
+## System<a id="system"></a>
+
+The MC1000 is an letter shoot or pneumatic delivery (german "Rohpost") on a Intel 8039 CPU. The **MC1000** are developed and destributed from 1982 until end of the 80th.
 
 These repository will be stay for all homebrew software for these PCB like an Arduino. 
 
-# Hardware:
+[Top](#system)
 
+## Hardware<a id="hw"></a>
 - INTEL 8039 8bit CPU
 - INTEL 8251 UART
 - INTEL 8279 Keyboard/Display Interface
@@ -17,5 +28,16 @@ These repository will be stay for all homebrew software for these PCB like an Ar
 - 20 GPIO Input ports by opto-isolator
 - 17 GPIO output ports by opto-isolator
 
+[Top](#system)
+
+## Mainboard<a id="pcb"></a>
+![PCB](img/MC1000_PCB.jpg "Mainboard")
+
+[Top](#system)
+
+## Keyboard<a id="kbd"></a>
+![KEYBOARD](img/MC1000_KBD.jpg "Keyboard")
+
+[Top](#system)
 
 
