@@ -1,0 +1,59 @@
+
+/L13"8039 TASM" Nocase Line Comment = ; String Chars = "' DisableMLS File Extensions = ASM LST S src
+/Delimiters = " #	$%'()+,;
+/Function String = "%^([0-9a-z_]+^)[ ^t]+"
+/C1"Syntax"
+add addc anl anld
+call clr cpl
+da dec dis djnz
+en ent0
+in inc
+jb jc jf0 jf1 jmp jmpp jnc jni jnto jnt1 jnz jtf jt0 jt1 jz
+mov movp3 movx
+nop
+orl orld
+ret reti retr rl rlc rr rrc 
+sel stop strt swap
+xch xchd xrl
+/C2"SFR Registers"
+A C
+f0 f1 I mb0 
+p0 p1 p2 p3 p4 p5 p6 p7 mb1
+r0 r1 r2 r3 r4 r5 r6 r7
+rb0 rb1
+/C3"SFR Bits"
+C
+/C4"Controls"
+*=
+#include #define #defcont #ifdef #endif #else #ifndef
+.ADDINSTR .block .byte .chk .echo .eject .end .equ .export .fill .LOCALLABELCHAR .msfirst .lssfirst .module .org .set
+.SYM .AVSYM .title .word
+/C5"Delimiter/Operator"
+#
+$
+%
+(
+)
+,
++
+-
+=
+*
+~
+%
+&
+>
+<
+^
+!
+|
+@
+/C6"Directives"
+ABSOLUTE
+BYTE
+DB DRIVES DS DW
+END EQU
+LIST
+MOD32
+OFF ON ORG
+TITLE
