@@ -1,0 +1,4 @@
+
+# ignore ultraedit *.bak files
+*.bak
+
