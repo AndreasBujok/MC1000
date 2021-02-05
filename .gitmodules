@@ -1,0 +1,3 @@
+[submodule "MC1000-I2C"]
+	path = i2c
+	url = git@github.com:AndreasBujok/MC1000_I2C.git
