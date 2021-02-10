@@ -10,7 +10,7 @@ __Table of content__
 
 ## System<a id="system"></a>
 
-The MC1000 is an letter shoot or pneumatic delivery (german "Rohpost") on a Intel 8039 CPU. The **MC1000** are developed and destributed from 1982 until end of the 80th.
+The MC1000 is an letter shoot or pneumatic delivery (german "Rohrpost") on a Intel 8039 CPU. The **MC1000** are developed and destributed from 1982 until end of the 80th.
 
 These repository will be stay for all homebrew software for these PCB like an Arduino. 
 
