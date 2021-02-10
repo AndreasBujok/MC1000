@@ -6,7 +6,7 @@ __Table of content__
 - [Hardware](#hw)
 - [Mainboard](#pcb)
 - [Keyboard](#kbd)
-
+- [GPIO](#gpio)
 
 ## System<a id="system"></a>
 
@@ -40,4 +40,13 @@ These repository will be stay for all homebrew software for these PCB like an Ar
 
 [Top](#system)
 
+## GPIO<a id="gpio"></a>
+
+[Top](#system)
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
